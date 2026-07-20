@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src=""/>
+<img src="https://github.com/Vaibhavdube/Vaibhavdube/blob/main/ChatGPT%20Image%20Jul%2020%2C%202026%2C%2007_55_39%20PM.png"/>
 
 </p>
 <h1 align="center">Hi 👋, I'm Vaibhav Dubey</h1>
