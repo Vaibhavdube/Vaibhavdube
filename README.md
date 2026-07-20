@@ -1,18 +1,169 @@
-# 💫 About Me:
-<h1 align="center">Hi 👋, I'm Vaibhav Dubey</h1><br><br><h3 align="center"><br>Java Full Stack Developer | Spring Boot | React | Backend Enthusiast<br></h3><br><br><p align="center"><br>Passionate about building secure, scalable, and production-ready web applications using Java and modern backend technologies.<br></p><br><br>---<br><br>## 🚀 About Me<br><br>I'm an aspiring **Java Full Stack Developer** with a Bachelor's degree in Computer Science & Engineering and hands-on experience in designing secure, scalable, and database-driven web applications. :contentReference[oaicite:0]{index=0}<br><br>My primary focus is backend development using **Java, Spring Boot, Spring Security, Hibernate, JPA, REST APIs, SQL, MySQL, and PostgreSQL**, while also building responsive user interfaces with **React**.<br><br>Currently, I'm working as a **Research Analyst at Highspring India LLP**, where I work with SQL, data validation, business applications, and operational workflows. This experience has strengthened my analytical thinking, database skills, and problem-solving approach while continuing my journey toward becoming a professional software engineer. :contentReference[oaicite:1]{index=1}<br><br>---<br><br>## 💻 Tech Stack<br><br>### Backend<br>- Java 21<br>- Spring Boot<br>- Spring Security<br>- Hibernate<br>- JPA<br>- REST APIs<br>- JWT Authentication<br><br>### Frontend<br>- React<br>- JavaScript<br>- HTML<br>- CSS<br>- Tailwind CSS<br><br>### Database<br>- PostgreSQL<br>- MySQL<br>- SQL Server<br><br>### Tools & Cloud<br>- Git<br>- GitHub<br>- Maven<br>- Postman<br>- Render<br>- Cloudinary<br>- Brevo Email API<br>- Apache POI<br><br>---<br><br>## 🚀 Featured Projects<br><br>### 💰 Expense Manager<br>- JWT Authentication<br>- Email Verification<br>- Cloudinary Image Upload<br>- Dashboard & Analytics<br>- Excel Report Download<br>- Email Reports<br>- Spring Boot + React + PostgreSQL<br><br>### 🤖 AI Chatbot Enabled Digital Tiffin Service<br>- IBM Watson Assistant<br>- Spring Boot<br>- Spring Security<br>- REST APIs<br>- MySQL<br><br>### 📇 Smart Contact Management<br>- Spring Boot<br>- Spring Security<br>- Hibernate<br>- CRUD Operations<br>- Authentication & Authorization<br><br>---<br><br>## 🌱 Currently Learning<br><br>- Data Structures & Algorithms<br>- System Design Fundamentals<br>- AI Integration with Spring Boot<br>- LLMs & AI Agents<br>- Microservices<br><br>---<br><br>## 🎯 Career Objective<br><br>I'm actively seeking opportunities as a **Java Backend / Full Stack Developer**, where I can contribute to real-world products, learn from experienced engineers, and continue growing as a software developer.<br><br>---<br><br>## 📫 Connect With Me<br><br>📧 Email: **vaibhav07154@gmail.com**<br><br>💼 LinkedIn:<br>www.linkedin.com/in/vaibhav-dubey-8362a2408<br><br>📍 Location:<br>Uttarakhand, India<br><br>---<br><br>⭐ *"Code. Learn. Build. Improve. Repeat."*
+<h1 align="center">Hi 👋, I'm Vaibhav Dubey</h1>
 
+<h3 align="center">
+Java Full Stack Developer | Spring Boot | React | Backend Enthusiast
+</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vaibhav-dubey-8362a2408) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Vaibhav Dubey) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaibhav07154@gmail.com) 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1200&color=7F3FBF&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;Backend+Engineer;Always+Learning+New+Technologies" />
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Vaibhavdube&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Vaibhavdube&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Vaibhavdube&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Vaibhavdube&label=Profile+Views&color=7F3FBF&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Vaibhavdube?label=Followers&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/Vaibhavdube?label=Stars&style=for-the-badge"/>
+
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Vaibhavdube&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 About Me
+
+💻 Passionate Java Full Stack Developer with hands-on experience in designing secure, scalable, and production-ready web applications.
+
+🎓 Bachelor's Degree in Computer Science & Engineering.
+
+🔐 Strong interest in Backend Development, Authentication Systems, REST APIs, Database Design, and Software Architecture.
+
+📊 Currently working as a **Research Analyst at Highspring India LLP**, where I work with SQL, data validation, business applications, and operational workflows while continuously growing as a software developer.
+
+🌱 Currently learning
+
+- Advanced Spring Boot
+- System Design
+- Data Structures & Algorithms
+- AI Integration with Java
+- Microservices
+
+🎯 Looking for opportunities as a **Java Backend / Full Stack Developer**.
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mysql,react,js,html,css,tailwind,git,github,maven,postman,docker"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 💰 Expense Manager
+
+✔ JWT Authentication
+
+✔ Email Verification (Brevo API)
+
+✔ Cloudinary Image Upload
+
+✔ Dashboard Analytics
+
+✔ Income & Expense Tracking
+
+✔ Excel Report Download
+
+✔ Email Excel Reports
+
+✔ Spring Boot + React + PostgreSQL
+
+---
+
+## 🤖 AI Chatbot Enabled Digital Tiffin Service
+
+✔ IBM Watson Assistant
+
+✔ Spring Boot
+
+✔ Spring Security
+
+✔ REST APIs
+
+✔ MySQL
+
+---
+
+## 📇 Smart Contact Management
+
+✔ Spring Boot
+
+✔ Spring Security
+
+✔ Hibernate
+
+✔ CRUD Operations
+
+✔ Authentication & Authorization
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vaibhavdube&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavdube&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Vaibhavdube&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Vaibhavdube&theme=tokyonight&margin-w=10&row=1"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhavdube&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+
+📧 Email : **vaibhav07154@gmail.com**
+
+💼 LinkedIn :
+https://www.linkedin.com/in/vaibhav-dubey-8362a2408
+
+🌍 Location :
+Uttarakhand, India
+
+</p>
+
+---
+
+# 💡 Quote
+
+> **"Consistency beats talent when talent doesn't stay consistent."**
+
+⭐ Thanks for visiting my profile!
+
+Happy Coding 🚀
